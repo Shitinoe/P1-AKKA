@@ -10,6 +10,7 @@ import java.io.File;
 object leitor extends App{
     var matrizA = Array.ofDim[Int](1000,1000)
     var matrizB = Array.ofDim[Int](1000,1000)
+    var matrizBtransposta = Array.ofDim[Int](1000,1000)
     
     case object EscravoComeceLeitura
     
@@ -44,11 +45,16 @@ object leitor extends App{
                     var valores = linha.split(" ")
                     while(x < 1000){
                         matrizB(x)(y) = valores(x).toInt
+                        matrizBtransposta(y)(x) = valores(x).toInt
                         x = x + 1
                     }
                     x = 0
                     y = y + 1
                 }
+                
+                println(matrizB(999)(999))
+                println(matrizBtransposta(0)(999))
+                
                 Thread.sleep(200)
                 sc.close
                 sistema.shutdown
