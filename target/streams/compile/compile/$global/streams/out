@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/workspace/P1/projeto/src/main/scala/mainProject.scala:23:36: overloaded method value fromFile with alternatives:[0m
+[0m[[0m[31merror[0m] [0m[0m  (file: java.io.File)(implicit codec: scala.io.Codec)scala.io.BufferedSource <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (uri: java.net.URI)(implicit codec: scala.io.Codec)scala.io.BufferedSource <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (name: String)(implicit codec: scala.io.Codec)scala.io.BufferedSource[0m
+[0m[[0m[31merror[0m] [0m[0m cannot be applied to (scala.io.BufferedSource)[0m
+[0m[[0m[31merror[0m] [0m[0m                for(line <- Source.fromFile(arquivo).getLines){[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

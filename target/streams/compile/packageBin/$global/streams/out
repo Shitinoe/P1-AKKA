@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/ubuntu/workspace/P1/projeto/target/scala-2.11/projetop1_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	leitor$Escravo$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/P1/projeto/target/scala-2.11/classes/leitor$Escravo$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	leitor$Escravo$$anonfun$receive$1$$anonfun$applyOrElse$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/P1/projeto/target/scala-2.11/classes/leitor$Escravo$$anonfun$receive$1$$anonfun$applyOrElse$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	leitor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/P1/projeto/target/scala-2.11/classes/leitor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	leitor$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/P1/projeto/target/scala-2.11/classes/leitor$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	leitor$EscravoComeceLeitura$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/P1/projeto/target/scala-2.11/classes/leitor$EscravoComeceLeitura$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	leitor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/P1/projeto/target/scala-2.11/classes/leitor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	leitor$Escravo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/P1/projeto/target/scala-2.11/classes/leitor$Escravo.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
