@@ -1052,30 +1052,30 @@
 [0m[[0m[0mdebug[0m] [0m[0m	resolved ivy file produced in cache[0m
 [0m[[0m[0mdebug[0m] [0m[0m:: downloading artifacts ::[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-library;2.11.6!scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/ubuntu/.ivy2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.11;2.3.8!akka-actor_2.11.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.typesafe.akka#akka-remote_2.11;2.3.8!akka-remote_2.11.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/ubuntu/.ivy2[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] io.netty#netty;3.8.0.Final!netty.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.typesafe#config;1.2.1!config.jar(bundle)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.11;2.3.8!akka-actor_2.11.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/ubuntu/.ivy2[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.6!scala-compiler.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/ubuntu/.ivy2[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(bundle)[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/ubuntu/.ivy2[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.6!scala-reflect.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.google.protobuf#protobuf-java;2.5.0!protobuf-java.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.uncommons.maths#uncommons-maths;1.2.2a!uncommons-maths.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.6!scala-reflect.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/ubuntu/.ivy2[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] jline#jline;2.12.1!jline.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/ubuntu/.ivy2[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/ubuntu/.ivy2[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/ubuntu/.ivy2[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.uncommons.maths#uncommons-maths;1.2.2a!uncommons-maths.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/ubuntu/.ivy2[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/ubuntu/.ivy2[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/ubuntu/.ivy2[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/ubuntu/.ivy2[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/ubuntu/.ivy2[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/ubuntu/.ivy2[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/ubuntu/.ivy2[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
@@ -1083,122 +1083,73 @@
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (382ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (397ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (241ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (404ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/ubuntu/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (526ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (550ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (560ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (3200ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (3396ms)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
 [0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
@@ -1209,34 +1160,10 @@
 [0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (572ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (567ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (578ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (545ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (3593ms)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
 [0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
@@ -1246,7 +1173,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
 [0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (455ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/ubuntu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (4207ms)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
 [0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
@@ -1255,7 +1183,79 @@
 [0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
 [0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
 [0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 2015ms :: artifacts dl 727ms[0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (4580ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (3611ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (4190ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (3794ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (3403ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (3605ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (3799ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (3607ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/ubuntu/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 5995ms :: artifacts dl 5527ms[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for projetop1#projetop1_2.11;1.0 compile produced in /home/ubuntu/workspace/P1/projeto/target/scala-2.11/resolution-cache/reports/projetop1-projetop1_2.11-compile.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for projetop1#projetop1_2.11;1.0 runtime produced in /home/ubuntu/workspace/P1/projeto/target/scala-2.11/resolution-cache/reports/projetop1-projetop1_2.11-runtime.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for projetop1#projetop1_2.11;1.0 test produced in /home/ubuntu/workspace/P1/projeto/target/scala-2.11/resolution-cache/reports/projetop1-projetop1_2.11-test.xml[0m
@@ -1267,5 +1267,5 @@
 [0m[[0m[0mdebug[0m] [0m[0m	report for projetop1#projetop1_2.11;1.0 plugin produced in /home/ubuntu/workspace/P1/projeto/target/scala-2.11/resolution-cache/reports/projetop1-projetop1_2.11-plugin.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for projetop1#projetop1_2.11;1.0 pom produced in /home/ubuntu/workspace/P1/projeto/target/scala-2.11/resolution-cache/reports/projetop1-projetop1_2.11-pom.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for projetop1#projetop1_2.11;1.0 scala-tool produced in /home/ubuntu/workspace/P1/projeto/target/scala-2.11/resolution-cache/reports/projetop1-projetop1_2.11-scala-tool.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	resolve done (2015ms resolve - 727ms download)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	resolve done (5995ms resolve - 5527ms download)[0m
 [0m[[0m[0minfo[0m] [0m[0mDone updating.[0m
