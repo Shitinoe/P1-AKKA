@@ -1,3 +1,7 @@
-[0m[[0m[31merror[0m] [0m[0mIO error while decoding /home/ubuntu/workspace/P1/projeto/src/main/scala/mainProject.scala with UTF-8[0m
-[0m[[0m[31merror[0m] [0m[0mPlease try specifying another one using the -encoding option[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/workspace/P1/projeto/src/main/scala/mainProject.scala:17:18: object EscravoComeceLeitura is not a case class, nor does it have an unapply/unapplySeq member[0m
+[0m[[0m[31merror[0m] [0m[0m            case EscravoComeceLeitura(caminho) => //escravo1 le o arquivo ppar[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/workspace/P1/projeto/src/main/scala/mainProject.scala:39:35: leitor.EscravoComeceLeitura.type does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    escravo ! EscravoComeceLeitura("src/main/scala/ppar")[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
